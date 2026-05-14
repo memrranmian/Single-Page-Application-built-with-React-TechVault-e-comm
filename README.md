@@ -114,7 +114,7 @@ NAVTTC Final Project/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Single-Page-Application-built-with-React-TechVault-e-comm.git
+git clone https://github.com/memrranmian/Single-Page-Application-built-with-React-TechVault-e-comm.git
 
 # 2. Navigate into the project
 cd Single-Page-Application-built-with-React-TechVault-e-comm
