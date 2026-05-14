@@ -168,7 +168,7 @@ This project uses the **[FakeStore API](https://fakestoreapi.com/)** — a free 
 
 ## 👤 Author
 
-**NAVTTC Final Project — MERN Stack Program 2026**
+**Muhammad Imran MianNAVTTC Final Project — MERN Stack Program 2026**
 
 ---
 
